@@ -1,0 +1,28 @@
+header{
+		background-color: lightblue;
+		border-radius: 10px 10px 10px 10px;
+}
+h1{
+	font-family: Arial Black;
+	color: white;
+
+}
+aside ul li{
+	font-family: Lucida Sans Unicode;
+		
+}
+summary{
+		
+}
+article{
+
+		font-family: Lucida Sans Unicode;
+
+}
+footer{
+	background-color: lightblue;
+	border-radius: 10px 10px 10px 10px;
+}
+adress{
+	font-family: Courier New;
+}
