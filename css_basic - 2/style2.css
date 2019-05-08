@@ -1,0 +1,9 @@
+div {
+	border: black solid 1px;
+	margin:5px;
+}
+
+#first > p {
+	font-weight: bold;
+}
+
