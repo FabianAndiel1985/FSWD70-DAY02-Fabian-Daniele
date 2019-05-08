@@ -16,12 +16,11 @@ div  {
 	visibility: none;
 }
 
+#second p {
+	display: none;
+}
 
-
-
-/*#second > div { visibility:none; }
-
-#second, #right {display:none;}
-*/
-
+#second>div{
+	 border: none; 
+}
 
