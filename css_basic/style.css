@@ -4,7 +4,7 @@ div {
 }
 
 #third > p { 
-			display:none
+			display:none;
 		}
 
 
@@ -12,9 +12,6 @@ h1 {
 	display:none;
 }
 
-div  {
-	visibility: none;
-}
 
 #second p {
 	display: none;
