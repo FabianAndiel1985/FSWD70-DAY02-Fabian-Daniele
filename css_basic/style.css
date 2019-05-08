@@ -13,11 +13,17 @@ h1 {
 }
 
 
+#second p {
+	display: none;
+}
+
+#second>div{
+	 border: none; 
+}
 
 
-#second > div { visibility:none; }
 
-#second, #right {display:none;}
+
 
 
 
