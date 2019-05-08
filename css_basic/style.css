@@ -12,12 +12,16 @@ h1 {
 	display:none;
 }
 
+div  {
+	visibility: none;
+}
 
 
 
-#second > div { visibility:none; }
+
+/*#second > div { visibility:none; }
 
 #second, #right {display:none;}
-
+*/
 
 
