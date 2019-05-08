@@ -1,0 +1,23 @@
+div {
+	border: black solid 1px;
+	margin:5px;
+}
+
+#third > p { 
+			display:none
+		}
+
+
+h1 {
+	display:none;
+}
+
+
+
+
+#second > div { visibility:none; }
+
+#second, #right {display:none;}
+
+
+
