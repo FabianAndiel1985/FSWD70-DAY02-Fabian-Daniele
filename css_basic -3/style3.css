@@ -1,0 +1,52 @@
+header{
+	position: relative;
+	width: 100%;
+	background-color: lightblue;
+	border-radius: 10px 10px 10px 10px;
+	opacity: 0.8;
+	width: 80%;
+	left: 10%;
+
+}
+h1{
+	font-family: Arial Black;
+	position: relative;
+	left: 15%;
+	
+}
+
+div{
+	position: absolute;
+	left: 10%;
+	
+	height: 120px;
+	width: 100px;
+
+	top: 60px;
+}
+summary{
+	position: absolute;
+	width: 50%;
+	right: 10%;
+		
+}
+article{
+		position: relative;
+		top: 100px;
+		font-family: Lucida Sans Unicode;
+		width: 80%;
+		left: 10%;
+
+}
+footer{
+	background-color: lightblue;
+	border-radius: 10px 10px 10px 10px;
+	position: relative;
+	top: 140px;
+	width: 80%;
+	left: 10%;
+
+}
+adress{
+	font-family: Courier New;
+}
